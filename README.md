@@ -5,7 +5,7 @@ Lay out all the numbers and their positions
 Manual:
 1. copy and extract the file into .java file's folder
 2. in start, search cmd
-   OR, press <win> + <x> choose run and type cmd.
+   OR, press Win + X choose run and type cmd.
 3. in command line mode, type "cd files'directory"
 4. type "magicnumchecker filename.java"
 
