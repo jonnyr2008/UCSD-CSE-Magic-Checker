@@ -3,7 +3,7 @@ Lay out all the numbers and their positions
 
 This is a .exe file
 
-Manual:
+How to use:
 
 1. copy and extract the file into .java file's folder
 
