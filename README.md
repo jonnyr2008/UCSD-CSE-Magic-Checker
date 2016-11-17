@@ -1,6 +1,6 @@
-# UCSD-CSE-Magic-Checker
+ UCSD-CSE-Magic-Checker
 Lay out all the numbers and their positions
-
+This is a .exe file
 
 Manual:
 1. copy and extract the file into .java file's folder
