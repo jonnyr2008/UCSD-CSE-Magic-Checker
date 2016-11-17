@@ -14,6 +14,6 @@ Manual:
   Since you only have one shot of searching, this will help you exit from the program.
   
   
-The linux executable file is to be upload... in a long time...
+The linux executable file is to be upload... BUT, this is going to be a very long shot...
 
 In the meantime, please install any auxilary software to use it.
