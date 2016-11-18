@@ -11,7 +11,7 @@ How to use:
 1. copy and extract the file into .java file's folder
 
 2. in start, search cmd
-   OR, press Win + X choose run and type cmd.
+   ,OR press Win + X choose run and type cmd.
 
 3. in command line mode, type "cd files'directory"
 
