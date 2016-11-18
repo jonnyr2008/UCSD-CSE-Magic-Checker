@@ -39,3 +39,20 @@ How to use:
 5. Because "." is massively used in programming as well as a part of a number, I decided to keep it. If for any reason you see "." along in the result, don't worry. It should not be part of a number in the program.
 
 * Let me know if there is any bug that I want to fix ;)
+
+
+Here is the result of Linux Version:
+
+Number: -1  is in Line# 9, 12, 
+Number: .  is in Line# 23, 24, 28, 
+Number: 0  is in Line# 9, 10, 11, 12, 
+Number: 1  is in Line# 10, 11, 
+Number: 1.2  is in Line# 3, 
+
+There is/are 1  Number: 1.2
+There is/are 2  Number: -1
+There is/are 2  Number: 1
+There is/are 3  Number: .
+There is/are 4  Number: 0
+
+Please Enter the word you want to search for...
