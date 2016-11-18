@@ -1,7 +1,9 @@
 UCSD-CSE-Magic-Checker
 Lay out all the numbers and their positions
 
-This is a .exe file
+Windows
+
+.zip -- This is a .exe file to use in windows command line
 
 How to use:
 
@@ -19,6 +21,20 @@ How to use:
   Since you only have one shot of searching, this will help you exit from the program.
   
   
-The linux executable file is to be upload... BUT, this is going to be a very long shot...
+Linux
 
-In the meantime, please install any auxilary software to use it.
+.out -- command line program as well. This is a portable file, no installation needed
+
+How to use:
+
+1. Download to target directory
+
+2. in command line (just as compile a .java file) type "./mgcheck.out filename.[extensjion]". DONE!
+
+3. This also has a search function and as well, a one time search, but can be terminated as usual: CTRL+C
+
+4. Compare to windows version, since this is a latest one, I made a little modification, so the filter here should be a little better.
+
+5. Because "." is massively used in programming as well as a part of a number, I decided to keep it. If for any reason you see "." along in the result, don't worry. It is should not be part of a number in the program.
+
+* Let me know if there is any bug that I want to fix ;)
