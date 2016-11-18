@@ -43,15 +43,23 @@ How to use:
 Here is the result of Linux Version:
 
 Number: -1  is in Line# 9, 12, 
+
 Number: .  is in Line# 23, 24, 28, 
+
 Number: 0  is in Line# 9, 10, 11, 12, 
+
 Number: 1  is in Line# 10, 11, 
+
 Number: 1.2  is in Line# 3, 
 
 There is/are 1  Number: 1.2
+
 There is/are 2  Number: -1
+
 There is/are 2  Number: 1
+
 There is/are 3  Number: .
+
 There is/are 4  Number: 0
 
 Please Enter the word you want to search for...
