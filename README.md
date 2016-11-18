@@ -40,7 +40,6 @@ How to use:
 
 * Let me know if there is any bug that I want to fix ;)
 
-
 Here is the result of Linux Version:
 
 Number: -1  is in Line# 9, 12, 
