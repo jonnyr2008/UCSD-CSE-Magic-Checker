@@ -2,6 +2,8 @@ UCSD-CSE-Magic-Checker
 
 Lay out all the numbers and their positions
 
+======================================================== Windows =======================================================================
+
 Windows
 
 .zip -- This is a .exe file to use in windows command line
@@ -21,6 +23,7 @@ How to use:
   if you don't need, just press any key other than enter then press enter.
   Since you only have one shot of searching, this will help you exit from the program.
   
+=================================== Linux(Unix) ========================================================================================
   
 Linux
 
