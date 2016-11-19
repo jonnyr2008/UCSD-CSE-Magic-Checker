@@ -46,7 +46,7 @@ How to use:
 
 3. For detailed usage, please use the command above without filename entered and see.
 
-* Let me know if there is any significant bug.
+* Let me know if there is any significant bugs.
 
 
 Here is the result of SnakeController.java
