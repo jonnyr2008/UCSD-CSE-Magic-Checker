@@ -3,6 +3,16 @@ Updated! UCSD-CSE-Magic-Checker
 Lay out all the numbers and their positions
 
 *Updated Content:
+Nov. 19th. 2016:
+
+Added "/**" into count
+Improved number of header counter -- to be more precise
+Added: lay out Line number of header counter elements, So you can compare to see yourself
+for example:
+/** in line 5
+*/ in line 8
+public in line 9
+very possible you have a full load of header of a method/class
 
 Nov. 19th. 16
 
