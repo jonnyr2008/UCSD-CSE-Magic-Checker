@@ -1,4 +1,3 @@
-
 Updated! UCSD-CSE-Magic-Checker
 
 Lay out all the numbers and their positions
@@ -10,6 +9,8 @@ Nov. 19th. 16
 Removed the search function at the end.
 
 Improved result display and filter. Almost no redundant output.
+
+Added System.out.print(ln) check, in case of forgetting to remove
 
 Added number of header check.
 
