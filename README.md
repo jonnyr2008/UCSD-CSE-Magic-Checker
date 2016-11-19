@@ -23,6 +23,7 @@ How to use:
 
 1. copy and extract the file into .java file's folder
 
+
 2. In start, search cmd, OR press Win + X choose run and type cmd.
 
 3. in command line mode, type "cd files'directory"
@@ -44,6 +45,7 @@ How to use:
 2. In command line (just as compile a .java file) type "./mgcheck.out filename.[extensjion]". DONE!
 
 * Let me know if there is any significant bug.
+
 
 Here is the result of SnakeController.java
 
