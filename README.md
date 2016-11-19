@@ -111,8 +111,8 @@ You have 26       word/Number: */
 
 You have 33       word/Number: private
 
-You have potential 26 or 25 methods/classes . Please check if this is right.
+You have potentially 26 or 25 methods/classes . Please check if this is right.
 
-You have potential 32 or 31 outside decleared variables. Please check.
+You have potentially 32 or 31 outside decleared variables. Please check.
 
 Press any key to continue...
