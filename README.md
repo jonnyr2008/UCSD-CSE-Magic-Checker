@@ -23,12 +23,11 @@ How to use:
 
 1. copy and extract the file into .java file's folder
 
-
 2. In start, search cmd, OR press Win + X choose run and type cmd.
 
 3. in command line mode, type "cd files'directory"
 
-4. type "mgcheck filename.[extension]"
+4. type "mgcheck(.exe) filename.[extension]"
 
 5. For detailed usage, please double click the program and see.
 
@@ -36,13 +35,15 @@ How to use:
   
 Linux
 
-.out -- command line program as well. This is a portable file, no installation needed
+command line program as well. This is a portable file, no installation necessary
 
 How to use:
 
 1. Download to target directory
 
-2. In command line (just as compile a .java file) type "./mgcheck.out filename.[extensjion]". DONE!
+2. In command line (just as compile a .java file) type "./mgcheck filename.[extensjion]". DONE!
+
+3. For detailed usage, please use the command above without filename entered and see.
 
 * Let me know if there is any significant bug.
 
