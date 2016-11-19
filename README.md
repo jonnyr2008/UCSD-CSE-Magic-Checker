@@ -122,14 +122,26 @@ You have (safe) 19        word/Number: 0
 
 You have (safe) 20        word/Number: 1
 
-You have 25       word/Number: public
+======= Number of Header check below ==================
 
-You have 26       word/Number: */
+WORD/NUMBER    |  LINE # (seperated by comma)
 
-You have 33       word/Number: private
+*/		  Line# 49, 60, 112, 120, 196, 212, 264, 360, 371, 382, 394, 408, 424, 490, 544, 557, 568, 579, 591, 601, 617, 633, 647, 665, 680, 691, 
 
-You have potentially 26 or 25 methods/classes . Please check if this is right.
+/**		  Line# 2, 58, 106, 117, 191, 206, 259, 354, 365, 376, 389, 400, 418, 483, 541, 552, 563, 574, 585, 597, 611, 629, 644, 654, 675, 686, 
 
-You have potentially 32 or 31 outside decleared variables. Please check.
+private		  Line# 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 79, 80, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 94, 95, 96, 98, 100, 101, 103, 104, 
 
-Press any key to continue...
+public		  Line# 61, 113, 121, 197, 213, 265, 361, 372, 383, 395, 409, 425, 491, 545, 558, 569, 580, 592, 602, 618, 634, 648, 666, 681, 692, 
+
+
+You have 25	  word/Number: public
+
+You have 26	  word/Number: */
+
+You have 26	  word/Number: /**
+
+You have 33	  word/Number: private
+
+You should have 26 methods/classes . Please check if this is right.
+
