@@ -9,7 +9,7 @@ Added "/**" into count
 
 Improved number of header counter -- to be more precise
 
-Added: lay out Line number of header counter elements, So you can compare to see yourself
+Added: lay out Line number of header counter elements, So you can see and compare them yourself
 
 for example:
 
